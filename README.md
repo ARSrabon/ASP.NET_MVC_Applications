@@ -43,3 +43,5 @@ https://www.youtube.com/results?search_query=ms+sql+server+2012+tutorial+for+beg
 https://www.youtube.com/results?search_query=asp.net+mvc+5+tutorial+-+step+by+step
 
 
+https://dl.google.com/android/repository/sys-img/android/x86-25_r02.zip
+
