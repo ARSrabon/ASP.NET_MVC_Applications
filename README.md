@@ -47,3 +47,5 @@ https://www.youtube.com/watch?v=ThO3H4V3plA
 
 https://dl.google.com/android/repository/sys-img/android/x86-25_r02.zip
 
+java 2d game development http://zetcode.com/tutorials/javagamestutorial/
+
